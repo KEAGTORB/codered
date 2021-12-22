@@ -1,2 +1,2 @@
 
-https://keagtorb.github.io/sample
+https://keagtorb.github.io/codered
